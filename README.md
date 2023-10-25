@@ -1,6 +1,8 @@
 # CoAtNet Tensorflow2
 A [CoAtNet](https://arxiv.org/pdf/2106.04803v2.pdf) (**CoAtNet-0, CoAtNet-1, CoAtNet-2, CoAtNet-3, CoAtNet-4**) implementation using TensorFlow-2.0.
 
+![img](https://github.com/sup3rgiu/CoAtNet-Tensorflow2/assets/7725068/8e312b6b-2e57-4dd4-ab7f-9301292d3a1d)
+
 
 ## Usage
 
@@ -34,3 +36,13 @@ From `model.summary()` ('Trainable params') of this implementation:
 
 ## References
 1. The original CoAtNet paper: https://arxiv.org/pdf/2106.04803v2.pdf
+
+## Citation
+```bibtex
+@article{dai2021coatnet,
+  title={CoAtNet: Marrying Convolution and Attention for All Data Sizes},
+  author={Dai, Zihang and Liu, Hanxiao and Le, Quoc V and Tan, Mingxing},
+  journal={arXiv preprint arXiv:2106.04803},
+  year={2021}
+}
+```
